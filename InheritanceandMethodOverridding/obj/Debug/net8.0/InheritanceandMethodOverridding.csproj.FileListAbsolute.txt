@@ -1,0 +1,15 @@
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\bin\Debug\net8.0\InheritanceandMethodOverridding.exe
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\bin\Debug\net8.0\InheritanceandMethodOverridding.deps.json
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\bin\Debug\net8.0\InheritanceandMethodOverridding.runtimeconfig.json
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\bin\Debug\net8.0\InheritanceandMethodOverridding.dll
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\bin\Debug\net8.0\InheritanceandMethodOverridding.pdb
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\obj\Debug\net8.0\InheritanceandMethodOverridding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\obj\Debug\net8.0\InheritanceandMethodOverridding.AssemblyInfoInputs.cache
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\obj\Debug\net8.0\InheritanceandMethodOverridding.AssemblyInfo.cs
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\obj\Debug\net8.0\InheritanceandMethodOverridding.csproj.CoreCompileInputs.cache
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\obj\Debug\net8.0\InheritanceandMethodOverridding.sourcelink.json
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\obj\Debug\net8.0\InheritanceandMethodOverridding.dll
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\obj\Debug\net8.0\refint\InheritanceandMethodOverridding.dll
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\obj\Debug\net8.0\InheritanceandMethodOverridding.pdb
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\obj\Debug\net8.0\InheritanceandMethodOverridding.genruntimeconfig.cache
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\InheritanceandMethodOverridding\obj\Debug\net8.0\ref\InheritanceandMethodOverridding.dll

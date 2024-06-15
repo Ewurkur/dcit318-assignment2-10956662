@@ -1,0 +1,15 @@
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\bin\Debug\net8.0\AbstractClassesandMethods.exe
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\bin\Debug\net8.0\AbstractClassesandMethods.deps.json
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\bin\Debug\net8.0\AbstractClassesandMethods.runtimeconfig.json
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\bin\Debug\net8.0\AbstractClassesandMethods.dll
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\bin\Debug\net8.0\AbstractClassesandMethods.pdb
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\obj\Debug\net8.0\AbstractClassesandMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\obj\Debug\net8.0\AbstractClassesandMethods.AssemblyInfoInputs.cache
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\obj\Debug\net8.0\AbstractClassesandMethods.AssemblyInfo.cs
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\obj\Debug\net8.0\AbstractClassesandMethods.csproj.CoreCompileInputs.cache
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\obj\Debug\net8.0\AbstractClassesandMethods.sourcelink.json
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\obj\Debug\net8.0\AbstractClassesandMethods.dll
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\obj\Debug\net8.0\refint\AbstractClassesandMethods.dll
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\obj\Debug\net8.0\AbstractClassesandMethods.pdb
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\obj\Debug\net8.0\AbstractClassesandMethods.genruntimeconfig.cache
+C:\Users\kuran\Documents\GitHub\dcit318-assignment2-10956662\AbstractClassesandMethods\obj\Debug\net8.0\ref\AbstractClassesandMethods.dll
